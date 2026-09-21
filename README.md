@@ -118,18 +118,7 @@ Default pool (M=5):
 Extended pool (M=9):
 - + Lasso, Ridge, k-NN (k=3)
 
-## Citation
 
-If you use this code, please cite:
-
-```bibtex
-@article{regionwise_bma2026,
-  title={Uncertainty-Aware Regionwise Bayesian Model Averaging for Intelligent Decision Systems: Diagnosing and Repairing Covariance-Induced Weight Collapse},
-  author={Anonymous},
-  journal={Knowledge-Based Systems},
-  year={2026}
-}
-```
 
 ## License
 
